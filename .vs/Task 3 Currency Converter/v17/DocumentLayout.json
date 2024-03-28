@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 3 Currency Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFD3AA7-0173-4ACA-96E8-7D4FE67CEC7A}|Task 3 Currency Converter\\Task 3 Currency Converter.vbproj|c:\\users\\dario gerald\\downloads\\visual studio\\visual basic\\task 3 currency converter\\task 3 currency converter\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AAFD3AA7-0173-4ACA-96E8-7D4FE67CEC7A}|Task 3 Currency Converter\\Task 3 Currency Converter.vbproj|solutionrelative:task 3 currency converter\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFD3AA7-0173-4ACA-96E8-7D4FE67CEC7A}|Task 3 Currency Converter\\Task 3 Currency Converter.vbproj|C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 3 Currency Converter\\task 3 currency converter\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAFD3AA7-0173-4ACA-96E8-7D4FE67CEC7A}|Task 3 Currency Converter\\Task 3 Currency Converter.vbproj|solutionrelative:task 3 currency converter\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 3 Currency Converter\\Task 3 Currency Converter\\Form1.vb",
+              "RelativeDocumentMoniker": "Task 3 Currency Converter\\Form1.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 3 Currency Converter\\Task 3 Currency Converter\\Form1.vb",
+              "RelativeToolTip": "Task 3 Currency Converter\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA4wAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-28T01:11:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 3 Currency Converter\\Task 3 Currency Converter\\Form1.vb",
+              "RelativeDocumentMoniker": "Task 3 Currency Converter\\Form1.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\Task 3 Currency Converter\\Task 3 Currency Converter\\Form1.vb [Design]",
+              "RelativeToolTip": "Task 3 Currency Converter\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-28T01:09:27.431Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

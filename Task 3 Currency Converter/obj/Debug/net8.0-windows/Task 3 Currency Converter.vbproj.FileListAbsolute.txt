@@ -1,0 +1,16 @@
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\bin\Debug\net8.0-windows\Task 3 Currency Converter.exe
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\bin\Debug\net8.0-windows\Task 3 Currency Converter.deps.json
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\bin\Debug\net8.0-windows\Task 3 Currency Converter.runtimeconfig.json
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\bin\Debug\net8.0-windows\Task 3 Currency Converter.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\bin\Debug\net8.0-windows\Task 3 Currency Converter.pdb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task_3_Currency_Converter.Form1.resources
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.vbproj.GenerateResource.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.AssemblyInfoInputs.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.AssemblyInfo.vb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.vbproj.CoreCompileInputs.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\refint\Task 3 Currency Converter.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.pdb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\Task 3 Currency Converter.genruntimeconfig.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\Task 3 Currency Converter\Task 3 Currency Converter\obj\Debug\net8.0-windows\ref\Task 3 Currency Converter.dll
